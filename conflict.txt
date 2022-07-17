@@ -1,1 +1,15 @@
-conflict line
+A
+B
+C
+D
+E
+F
+G
+.
+.
+.
+.
+.
+.
+.
+.
